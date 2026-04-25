@@ -25,4 +25,5 @@ Medellín, Colombia 24 de Abril de 2026
 
 </br>
 
+[Ver entregable FINAL](EDA_Entregable.ipynb)
 ***
